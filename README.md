@@ -40,7 +40,6 @@ Para compilar e executar o jogo, é necessário:
    ```bash
    git clone https://github.com/seu-usuario/pong-game.git
    cd pong-game
-   ```bash
 
 3. **Compile o Projeto:**
    ```bash
